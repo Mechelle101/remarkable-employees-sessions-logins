@@ -52,7 +52,7 @@ is_admin();
               <th>First Name</th>
               <th>Last Name</th>
               <th>Email</th>
-              <th>Employee or Admin</th>
+              <th>Employee/Admin</th>
               <th>Department</th>
               <th>View</th>
               <th>Edit</th>

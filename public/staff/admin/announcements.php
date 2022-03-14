@@ -42,7 +42,7 @@ is_admin();
             <p>The announcement will show above the input field</p>
             <form action="announcements.php" method="post">
               <label for="announcement">Announcement</label><br>
-              <textarea id="announcement" name="announcement" rows="5" cols="50">
+              <textarea id="announcement" name="announcement" rows="5" cols="">
               </textarea>
               <br>
               <input type="submit" name="submit" value="Submit"><br>
